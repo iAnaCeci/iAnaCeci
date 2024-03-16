@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Ana Cecília, seja bem-vindo(a) ao meu perfil! 🫡
-🎓Graduanda do 8º período de engenharia de computação pelo Instituto Nacional de Telecomunicações - INATEL.
+🎓Graduanda do 9º período de engenharia de computação pelo Instituto Nacional de Telecomunicações - INATEL.
 
 💻Estagiária de Desenvolvimento Flutter, CDG Lab.
 ## Habilidades Técnicas
