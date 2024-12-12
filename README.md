@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Ana Cecília, seja bem-vindo(a) ao meu perfil! 🫡
 🎓Graduanda do 10º período de engenharia de computação pelo Instituto Nacional de Telecomunicações - INATEL.
 
-💻Estagiária de Desenvolvimento Flutter, CDG Lab.
+💻Desenvolvimento Flutter.
 ## Habilidades Técnicas
 🎯 Linguagens de Programação: Dart
     Frameworks: Flutter
