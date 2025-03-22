@@ -26,6 +26,6 @@
 
 🤝 Sempre aberta a novos desafios, conexões e oportunidades de crescimento.😊
 
-Salve Maria e Viva Cristo Rei!
+🙏Salve Maria e Viva Cristo Rei!
 
 
