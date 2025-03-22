@@ -1,7 +1,21 @@
-### Olá! Meu nome é Ana Cecília, seja bem-vindo(a) ao meu perfil! 🫡
-🎓Engenharia de computação pelo Instituto Nacional de Telecomunicações - INATEL.
+Olá! Meu nome é Ana Cecília, seja muito bem-vindo(a) ao meu perfil! 🫡✨
+💻 Interessada por tecnologia, inovação e aprendizado contínuo!
 
-🎓Mestanda em Telecomunicações, com ênfase em Inteligência Artificial.
+🎓 Graduada em Engenharia de Computação pelo Instituto Nacional de Telecomunicações – INATEL
+📚 Mestranda em Telecomunicações, com ênfase em Inteligência Artificial 🤖
 
+🚀 Experiência com:
+🔹 Desenvolvimento Mobile (Flutter 📱)
+🔹 Backend com Python 🐍 e FastAPI ⚡
+🔹 Banco de dados SQL 🗄️
+🔹 Metodologias Ágeis (SCRUM/Kanban) 📅
+🔹 Análise de dados com Excel e Power BI 📊
+
+🧠 Interesses:
+🔸 Machine Learning e Deep Learning 🧬
+🔸 Engenharia de Software 💻
+
+
+🤝 Sempre aberta a novos desafios, conexões e oportunidades de crescimento.😊
 
 
