@@ -1,4 +1,4 @@
-Olá! Meu nome é Ana Cecília, seja muito bem-vindo(a) ao meu perfil! 🫡✨
+# Olá! Meu nome é Ana Cecília, seja muito bem-vindo(a) ao meu perfil! 🫡✨
 💻 Interessada por tecnologia, inovação e aprendizado contínuo!
 
 🎓 Graduada em Engenharia de Computação pelo Instituto Nacional de Telecomunicações – INATEL
@@ -25,5 +25,7 @@ Olá! Meu nome é Ana Cecília, seja muito bem-vindo(a) ao meu perfil! 🫡✨
 
 
 🤝 Sempre aberta a novos desafios, conexões e oportunidades de crescimento.😊
+
+Salve Maria e Viva Cristo Rei!
 
 
