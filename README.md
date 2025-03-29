@@ -3,7 +3,7 @@
 
 🎓 Graduada em Engenharia de Computação pelo Instituto Nacional de Telecomunicações – INATEL
 
-📚 Mestranda em Telecomunicações, com ênfase em Inteligência Artificial 🤖
+📚 Mestranda em Telecomunicações, com ênfase em Inteligência Artificial 🤖 - INATEL
 
 🚀 Experiência com:
 
